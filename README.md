@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cláudia Diogo</h1>
 <h3 align="center">Very passionate about life and to learn every day more than yesterday.</h3>
 
-- 🌱 I’m currently learning **Cobol and C++**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **a programming project**
 
