@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sofiasaldiogo@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/2d775b12/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/2d775b12/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 
 
 - ⚡ Fun fact **I think programming it's a kind of magic!**
 
